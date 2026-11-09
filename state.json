@@ -1,7 +1,7 @@
 {
-  "status": "open",
-  "open_since": "2026-11-09T07:12:03.517769+00:00",
-  "notified_open": true,
-  "last_remind_at": "2026-11-09T07:42:10.472394+00:00",
+  "status": "paused",
+  "open_since": null,
+  "notified_open": false,
+  "last_remind_at": null,
   "last_heartbeat": "2026-11-09T06:51:59.261148+00:00"
 }
